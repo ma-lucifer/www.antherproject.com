@@ -47,25 +47,25 @@ a {
 	-webkitcolor:black;
 }
 a:link {
-  color: red;
+  -webkit-color: red;
 }
 
 /* visited link */
 a:visited {
-	background-color: yellow;
-  color: black;
+	-webkit-background-color: yellow;
+  -webkit-color: black;
 }
 
 /* mouse over link */
 a:hover {
-	cursor: pointer;
-  color: hotpink;
+	-webkit-cursor: pointer;
+  -webkit-color: hotpink;
 }
 
 /* selected link */
 a:active {
-  color: white;
+  -webkit-color: white;
 }
 .right{
-background-color: lightgrey;
+-webkit-background-color: lightgrey;
 }
