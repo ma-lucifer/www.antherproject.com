@@ -1,0 +1,71 @@
+body{
+	background-color: lightgrey;
+}
+img{
+	width: 20%;
+	background-color: 
+	margin-left:10px;
+	padding-left: 40px;
+	
+}
+h1{
+	text-align: center;
+    color:white;
+    font-size: 20px;
+    padding-top: 50px;
+}
+nav{
+	text-decoration: none;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 20px;
+}
+section{
+	padding-left: 200px;
+	margin-left: 125px;
+	margin-top: -540px;
+}
+header{
+	padding-bottom: 100px;
+	background-repeat: no-repeat;
+	background-size: 1300px;
+    margin-left: 40px;
+    margin-top: 10px;
+
+
+}
+a {
+    text-decoration: none;
+	background-color: rgba(240,240,240,.6);
+	padding: 10px;
+	margin: 20px;
+	font-size: 20px;
+	border-radius: 10px 10px 10px 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin: 80px;
+	color:black;
+}
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+	background-color: yellow;
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+	cursor: pointer;
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+.right{
+background-color: lightgrey;
+}
