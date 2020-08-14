@@ -1,50 +1,50 @@
 body{
-	background-color: lightgrey;
+	-webkit-background-color: lightgrey;
 }
 img{
-	width: 20%;
-	background-color: 
-	margin-left:10px;
-	padding-left: 40px;
+	-webkit-width: 20%;
+        -webkit-background-color: 
+        -webkit-margin-left:10px;
+	-webkit-padding-left: 40px;
 	
 }
 h1{
-	text-align: center;
-    color:white;
-    font-size: 20px;
-    padding-top: 50px;
+    -webkit-text-align: center;
+    -webkit-color:white;
+   -webkit-font-size: 20px;
+  -webkit-padding-top: 50px;
 }
 nav{
-	text-decoration: none;
-	text-align: center;
-	padding-top: 20px;
-	font-size: 20px;
+	-webkit-text-decoration: none;
+        -webkit-text-align: center;
+         -webkit-padding-top: 20px;
+          -webkit-font-size: 20px;
 }
 section{
-	padding-left: 200px;
-	margin-left: 125px;
-	margin-top: -540px;
+	-webkit-padding-left: 200px;
+	-webkit-margin-left: 125px;
+	-webkit-margin-top: -540px;
 }
 header{
-	padding-bottom: 100px;
-	background-repeat: no-repeat;
-	background-size: 1300px;
-    margin-left: 40px;
-    margin-top: 10px;
+	-webkit-padding-bottom: 100px;
+	-webkit-background-repeat: no-repeat;
+	-webkit-background-size: 1300px;
+    -webkit-margin-left: 40px;
+    -webkit-margin-top: 10px;
 
 
 }
 a {
     text-decoration: none;
-	background-color: rgba(240,240,240,.6);
-	padding: 10px;
-	margin: 20px;
-	font-size: 20px;
-	border-radius: 10px 10px 10px 10px;
-	padding-left: 25px;
-	padding-right: 25px;
-	margin: 80px;
-	color:black;
+	-webkit-background-color: rgba(240,240,240,.6);
+	-webkit-padding: 10px;
+	-webkit-margin: 20px;
+	-webkit-font-size: 20px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	-webkit-padding-left: 25px;
+	-webkit-padding-right: 25px;
+	-webkitmargin: 80px;
+	-webkitcolor:black;
 }
 a:link {
   color: red;
